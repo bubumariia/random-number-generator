@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 100px;
+}
+
+.container{
+    width: 400px;
+    margin: auto;
+    height: 100px;
+    border: 1px solid grey;
+    background-color: lightgrey;
+    font-size: 16px;
+    
+}
+
+.inputLower{
+    margin: 15px 0px 5px 0px;
+   
+}
+label{
+    margin-left: 10px;
+}
+
+.inputUpper{
+    margin-bottom: 5px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+button{
+    margin-right: 5px;
+    font-size: 16px;
+}
+
+.generateBtn{
+    background-color: rgb(100, 164, 3);
+    color: aliceblue;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+}
